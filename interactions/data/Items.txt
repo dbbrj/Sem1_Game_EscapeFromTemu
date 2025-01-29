@@ -1,0 +1,27 @@
+0 £ Pressed Flower
+1 £ String Bracelet
+2 £ Shard of Mirror
+3 £ Photo of Family
+4 £ Child’s Drawing
+5 £ Worn Necklace
+6 £ Rusted Pocket Knife
+7 £ Handwritten Note
+8 £ Old Watch
+9 £ Wooden Beads
+10 £ Torn Wallet
+11 £ Letter from Home
+12 £ Broken Comb
+13 £ Tattered Shoes
+14 £ Bent Spoon
+15 £ Folded Flag
+16 £ Stitched Patch
+17 £ Faded Book
+18 £ Silver Ring
+19 £ Worn-Out Bag
+20 £ Paper Crane
+21 £ Small Key
+22 £ Cracked Glasses
+23 £ Dented Flask
+24 £ Carved Figurine
+25 £ Red Ribbon
+26 £ Tiny Bell
